@@ -76,6 +76,7 @@ body {
     background-color: var(--body-color);
     color: var(--title-color);
     line-height: 1.6;
+    cursor: url("../img/White\ CGC.cur"), auto;
 }
 
 h1,h2,h3,ul,p{
