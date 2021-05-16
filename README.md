@@ -8,4 +8,4 @@ Responsive Landing Page Using HTML CSS And JavaScript 💰
 ![Alt text](img/files/modoclaro.png "Home")
 
 # Dark Mode
-![Alt text](img/files/modoclaro.png "Home")
+![Alt text](img/files/modoescuro.png "Home")
