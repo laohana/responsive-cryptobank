@@ -1,5 +1,4 @@
 # Responsive Landing Page - Cryptobank
-
 ![Alt text](img/files/Crypto-Bank-Video.gif "Home")
 
 Responsive Landing Page Using HTML CSS And JavaScript 💰 
